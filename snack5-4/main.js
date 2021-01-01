@@ -22,4 +22,4 @@ function mixArray(lettera, numero) {
 
  mixArray(numeri, lettere);
 
- console.log(mixArray);
+ console.log(mixArray); 
